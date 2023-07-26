@@ -1,3 +1,5 @@
+# Calculate the area of  shape consists of square, Tringle, circle
+
 highet_Tr = 5
 length_Tr = 4
 length_Sq = 4
@@ -13,11 +15,5 @@ circle = (pi *((half_cir)**2))
  
 print((square-circle )+ Tringle)
  
- 
-total_length = 100
-ceramic_length = 5
-number = (total_length/ceramic_length)-1
-print("number of ceramics = ",number)
-print("gap =" ,(total_length/ceramic_length-number))
 
 
